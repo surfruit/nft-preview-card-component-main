@@ -27,7 +27,7 @@ body{
 .card{
     margin: 5vh 0;
     width: 375px;
-    height: 550px;
+    height: 570px;
     background-color: hsl(216, 50%, 16%);
     border-radius: 25px;
 }
